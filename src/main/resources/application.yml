@@ -6,7 +6,7 @@ spring:
       uri: mongodb://localhost:27017
       database: rating
   application:
-    name: Rating-Service
+    name: RATINGS
 eureka:
   instance:
     prefer-ip-address: true
